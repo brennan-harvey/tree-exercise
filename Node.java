@@ -2,8 +2,8 @@ import java.util.LinkedList;
 
 public class Node {
 	
-	String name;
-	LinkedList<Node> children;
+	private String name;
+	private LinkedList<Node> children;
 	
 	public Node(String name) {
 		this.name = name;
