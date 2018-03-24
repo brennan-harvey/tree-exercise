@@ -18,7 +18,7 @@ public class Node {
 	
 	public String getName() {
 		return this.name;
-	};
+	}
 	
 	public void setChildren(Node left, Node right) {
 		this.children.add(0, left);
