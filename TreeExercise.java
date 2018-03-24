@@ -1,7 +1,7 @@
 
 public class TreeExercise {
 
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 
 		// Create leaf nodes
 		Node e1 = new Node("E1");
